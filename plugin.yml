@@ -1,0 +1,4 @@
+name: SQLManager
+main: me.engineersbox.sqlmanager.Main
+version: 1
+author: EngineersBox
